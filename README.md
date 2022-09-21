@@ -10,7 +10,7 @@ I've been learning to code for 3 years and fell in love with coding and problem 
 *   ✉️  You can contact me at [jujama04@gmail.com](mailto:jujama04@gmail.com)
 *   🚀  I'm currently working on [Terra Savers](http://terrasavers.com)
 *   🧠  I'm learning Data Structures and Algorithms, Linux commands, Python
-*   ⚡  Tried to learn laravel without knowing php (a bit of a challenge).
+*   ⚡  Have played tennis for 14 years.
 
 ### Skills
 <p align="left">
